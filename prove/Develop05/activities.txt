@@ -1,0 +1,3 @@
+SimpleActivity,Running,Run 5 kilometers,50
+EternalActivity,Reading,Read a book,30
+ChecklistActivity,Exercise,Go to the gym,20
